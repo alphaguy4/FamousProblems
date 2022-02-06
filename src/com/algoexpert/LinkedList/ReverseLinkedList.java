@@ -1,4 +1,4 @@
-package com.algoexpert.problems.LinkedList;
+package com.algoexpert.LinkedList;
 
 public class ReverseLinkedList {
 

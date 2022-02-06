@@ -1,4 +1,4 @@
-package com.algoexpert.problems.Trees;
+package com.algoexpert.Trees;
 
 public class BST {
     int value;
